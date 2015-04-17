@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu Apr 16 21:50:49 2015
+#
+$CMP C_Small
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Crystal_Small
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP D_Small
+D Diode
+$ENDCMP
+#
+$CMP F_Small
+D Fuse
+$ENDCMP
+#
+$CMP Jumper_NC_Small
+D Jumper normally close
+K Jumper, Link
+$ENDCMP
+#
+$CMP Jumper_NO_Small
+D Jumper normally open
+K Jumper, Link
+$ENDCMP
+#
+$CMP Led_Small
+D Led
+$ENDCMP
+#
+$CMP R_Small
+D Resistor
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP CP_Small
+D Polarised capacitor
+$ENDCMP
+#
+#End Library
